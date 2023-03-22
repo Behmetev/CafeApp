@@ -4,4 +4,22 @@
     <string name="user_name">Имя пользователя</string>
     <string name="password">Пароль</string>
     <string name="singIn">Войти</string>
+    <string name="greetings">Привет, %s! Что желаете?</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="additives">Что добавить в ваш %s</string>
+    <string name="sugar">Сахар</string>
+    <string name="milk">Молоко</string>
+    <string name="lemon">Лемон</string>
+    <string name="type_drink">Тип напитка</string>
+    <string name="makeOrder">Сделать заказ</string>
+    <array name="typesOfTea">
+        <item>Зелёный</item>
+        <item>Чёрный</item>
+    </array>
+    <array name="typesOfCoffee">
+        <item>Американо</item>
+        <item>Еспрессо</item>
+        <item>Латте</item>
+    </array>
 </resources>
